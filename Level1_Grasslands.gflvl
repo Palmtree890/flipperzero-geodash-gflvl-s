@@ -1,0 +1,54 @@
+# Grasslands - Beginner Level
+# A gentle introduction: simple jumps, one wall, a ship section, back to cube.
+# No upside-down gravity. Forgiving spacing throughout.
+
+# Opening ground run - get your bearings
+b,0,0,5
+
+# First spike - easy single jump
+2,7,0
+b,8,0,4
+
+# Two spikes in a row - still easy
+2,14,0
+2,15,0
+b,17,0,5
+
+# Small wall to hop over
+w,24,0,3
+b,26,0,3
+
+# Gap with a floating platform to land on
+b,31,1,3
+b,35,0,4
+
+# Spike after the gap landing
+2,41,0
+b,42,0,3
+
+# Short wall
+w,47,0,2
+b,49,0,4
+
+# Enter ship mode
+6,55,0
+b,57,0,2
+
+# Ship section - open sky, gentle obstacle
+b,62,3,3   # Ceiling platform to fly under
+b,65,0,3   # Floor platform
+
+b,70,4,3   # Higher ceiling
+b,73,0,2
+
+# Back to cube
+7,78,0
+b,79,0,4
+
+# Final stretch - spike pair and finish
+2,85,0
+2,86,0
+b,88,0,6
+
+# End spike
+2,95,0
