@@ -1,6 +1,15 @@
-# flipperzero geometry dash gflvl level files
-this is a collection of levels for the in development geometry dash game for the flipper zero created by gooseprjkt
-## how to use
+ # Geoflip level builder
+This makes it easy to build levels for the flipper zero geometry dash game by [gooseprjkt](https://github.com/gooseprjkt/).
+This is basicly a level editor for geometry flip. 
+
+[geobuild.palmtree.technology](https://geobuild.palmtree.technology)
+
+## how to make levels
+build using spikes, blocks, and more, import files, export, and copy to clipboard.
+
+## flipperzero geometry dash gflvl level files
+this is also a collection of levels for the in development geometry dash game for the flipper zero created by gooseprjkt
+### how to use
 put the game files in SD card/apps_data/geometry_flip
 I recomend using a application such as [qflipper](https://flipper.net/pages/downloads) for the file transfer
 
